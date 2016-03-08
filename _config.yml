@@ -1,0 +1,28 @@
+name: ildar89
+favicon: null
+layout_spectrum: 0.5451387993525714
+typography_spectrum: 0.33625180879607797
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3144164104014635
+  lightness: 0.2592345306184143
+  saturation: 0.02610265137627721
+  rhythmicContrast: 0.8610822663176805
+purpose: []
